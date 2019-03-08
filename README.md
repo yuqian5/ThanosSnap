@@ -9,7 +9,61 @@ Don't worry Thanos and his infinity gauntlet is here to help you!
     Step 3: Perfect balance
 
 ![alt text](https://github.com/yuqian5/ThanosSnap/blob/master/resources/thanos.jpg)
+{::nomarkdown}
 
+<!DOCTYPE html>
+<!-- saved from url=(0021)https://thanosjs.org/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Thanos JS</title>
+    <link href="./Thanos JS_files/styles.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A demo site to use with Netlify Drop">
+    <meta name="keywords" content="Thanos, JavaScript, Paradoy, Netlify Drop">
+    <meta name="author" content="Rafael Conde">
+
+    <link rel="icon" type="image/png" sizes="32x32" href="https://thanosjs.org/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="https://thanosjs.org/favicon-16x16.png">
+  </head>
+  <body>
+    <div class="titan-background">
+      <span class="stars stars-L"></span>
+      <span class="stars stars-M"></span>
+      <span class="stars stars-S"></span>
+    </div>
+    <div class="marvellous-container">
+      <div class="header">
+        <h1><span class="title-marvel">Thanos</span> <span class="title-studios">JS</span></h1>
+        <h2>
+          Reduce the file size of your project down to 50%, <br>
+          by randomly deleting half of the files.
+        </h2>
+      </div>
+      <div class="installation-instructions">
+        <h3>Installation</h3>
+        <code>$ gem install power</code>
+        <code>$ gem install reality</code>
+        <code>$ gem install mind</code>
+        <code>$ gem install space</code>
+        <code>$ gem install time</code>
+        <code>$ gem install soul</code>
+      </div>
+      <div class="usage-instructions">
+        <h3>Basic Usage</h3>
+        <code>$ thanos snap-fingers --with-glove</code>
+      </div>
+      <div class="footer">
+        <img src="./Thanos JS_files/glove.png" alt="thanos gauntlet but its like the classic emoji hands with an awful photoshop of stupid gems on it, because funny">
+        <p>
+          This whole site is obviously a parody, <br>
+          just to demo how awesome <a target="_blank" href="https://app.netlify.com/drop">Netlify Drop is — give it a try.</a>
+        </p>
+      </div>
+    </div>
+  
+
+</body></html>
+{:/}
 
 
 
