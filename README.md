@@ -5,7 +5,7 @@ Is your project becoming too big to maintain? Is your code so long and messy tha
 Don't worry Thanos and his infinity gauntlet is here to help you! 
 
     Step 1: make (Make sure your g++ on your computer is actually GNU g++, not clang++, talking to you Mac users)
-    Step 2: ./ThanosSnap [pesky little files]
+    Step 2: ./ThanosSnap [pesky little file]
     Step 3: Perfect balance
 
 ### Reduce the file size of your project down to 50%, by randomly deleting half of the files.
