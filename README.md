@@ -1,6 +1,6 @@
 # ThanosSnap
 
-Is your project becoming too big to maintain? Is your code so long that it will take forever to debug? 
+Is your project becoming too big to maintain? Is your code so long and messy that it will take forever to debug? 
 
 Don't worry Thanos and his infinity gauntlet is here to help you! 
 
